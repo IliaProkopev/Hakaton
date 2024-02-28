@@ -1,0 +1,2 @@
+1 diary_1-4_class 100 75
+2 diary_5-11_class 120 75
